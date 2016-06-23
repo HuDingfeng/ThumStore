@@ -1,0 +1,185 @@
+ [
+  {
+  "name": "蔬菜",
+  "desciption": "蔬菜",
+  "goods": [
+            {
+            "id": "001",
+            "icon": "fangbianmain",
+            "name": "娃娃菜大白菜",
+            "originalPrice": "10.00",
+            "salePrice": "5.50",
+            "stock": "80",
+            "desc": "超级大白菜"
+            },
+            {
+            "id": "002",
+            "icon": "dawanmian",
+            "name": "茶树菇",
+            "originalPrice": "20.00",
+            "salePrice": "10.05",
+            "stock": "20",
+            "desc": "茶树菇"
+            },
+            {
+            "id": "003",
+            "icon": "fangbianmain",
+            "name": "萝卜头",
+            "originalPrice": "15.00",
+            "salePrice": "8.99",
+            "stock": "50",
+            "desc": "萝卜头"
+            },
+            {
+            "id": "004",
+            "icon": "dawanmian",
+            "name": "番茄大",
+            "originalPrice": "20",
+            "salePrice": "10",
+            "stock": "50",
+            "desc": "番茄打"
+            },
+            {
+            "id": "005",
+            "icon": "dawanmian",
+            "name": "莲藕莲藕",
+            "originalPrice": "50",
+            "salePrice": "28",
+            "stock": "50",
+            "desc": "莲藕"
+            }
+            ]
+  },
+  {
+  "name": "日化",
+  "desciption": "日化",
+  "goods": [
+            {
+            "id": "101",
+            "icon": "fangbianmain",
+            "name": "小龙虾",
+            "originalPrice": "80",
+            "salePrice": "59.99",
+            "stock": "1",
+            "desc": "小龙虾"
+            },
+            {
+            "id": "102",
+            "icon": "dawanmian",
+            "name": "龙力鱼",
+            "originalPrice": "20",
+            "salePrice": "18",
+            "stock": "12",
+            "desc": "哈哈龙利鱼"
+            }
+            ]
+  },
+  {
+  "name": "水果",
+  "desciption": "水果",
+  "goods": [
+            {
+            "id": "201",
+            "icon": "dawanmian",
+            "name": "香蕉",
+            "originalPrice": "10",
+            "salePrice": "5",
+            "stock": "80",
+            "desc": "牛逼的香蕉"
+            },
+            {
+            "id": "202",
+            "icon": "fangbianmain",
+            "name": "what?木瓜？哈哈哈",
+            "originalPrice": "20",
+            "salePrice": "10",
+            "stock": "50",
+            "desc": "木瓜呢"
+            },
+            {
+            "id": "203",
+            "icon": "dawanmian",
+            "name": "葡萄",
+            "originalPrice": "15",
+            "salePrice": "8",
+            "stock": "50",
+            "desc": "我是葡萄呢"
+            },
+            {
+            "id": "204",
+            "icon": "dawanmian",
+            "name": "桃子",
+            "originalPrice": "20",
+            "salePrice": "10",
+            "stock": "50",
+            "desc": "桃子"
+            }
+            ]
+  },
+  {
+  "name": "饮料",
+  "desciption": "饮料",
+  "goods": [
+            {
+            "id": "301",
+            "icon": "fangbianmain",
+            "name": "蜂蜜",
+            "originalPrice": "10",
+            "salePrice": "5",
+            "stock": "80",
+            "desc": "好喝啊"
+            },
+            {
+            "id": "302",
+            "icon": "fangbianmain",
+            "name": "西瓜汁",
+            "originalPrice": "20",
+            "salePrice": "10",
+            "stock": "50",
+            "desc": "好喝的西瓜汁"
+            },
+            {
+            "id": "303",
+            "icon": "fangbianmain",
+            "name": "暴风雪",
+            "originalPrice": "15",
+            "salePrice": "8",
+            "stock": "50",
+            "desc": "暴风雪啊"
+            },
+            {
+            "id": "303",
+            "icon": "dawanmian",
+            "name": "珍珠奶茶",
+            "originalPrice": "15",
+            "salePrice": "8",
+            "stock": "50",
+            "desc": "奶茶啊"
+            }
+            ]
+  },
+  {
+  "name": "方便面",
+  "desciption": "方便面",
+  "goods": [
+            {
+            "id": "401",
+            "icon": "dawanmian",
+            "name": "白象",
+            "originalPrice": "10",
+            "salePrice": "2",
+            "stock": "0",
+            "desc": "白象"
+            },
+            {
+            "id": "402",
+            "icon": "fangbianmain",
+            "name": "康师傅",
+            "originalPrice": "20",
+            "salePrice": "10",
+            "stock": "50",
+            "desc": "康师傅"
+            }
+            ]
+  }
+  ]
